@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 Cambio 2 - prueba
+=======
+Agregando nueva información.
+>>>>>>> branch1
+
